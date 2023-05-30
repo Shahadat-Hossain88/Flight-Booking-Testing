@@ -1,5 +1,10 @@
-Flight-Booking-Testing Link=> https://edgepnt.testrail.io/index.php?/runs/view/3&group_by=cases:section_id&group_order=asc
+Flight-Booking-Testing
+Link=> https://edgepnt.testrail.io/index.php?/runs/view/3&group_by=cases:section_id&group_order=asc
+using Testrail Tools.
 
+
+
+Rewuirements:
 Flat rate for flights less than 500 miles = 100
 
 1.calculate cost based on distance and departure date for flights between 500 and 1000 miles
